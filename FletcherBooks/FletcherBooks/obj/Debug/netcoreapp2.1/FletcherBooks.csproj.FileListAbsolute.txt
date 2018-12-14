@@ -1,0 +1,14 @@
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\bin\Debug\netcoreapp2.1\FletcherBooks.deps.json
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\bin\Debug\netcoreapp2.1\FletcherBooks.runtimeconfig.json
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\bin\Debug\netcoreapp2.1\FletcherBooks.runtimeconfig.dev.json
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\bin\Debug\netcoreapp2.1\FletcherBooks.dll
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\bin\Debug\netcoreapp2.1\FletcherBooks.pdb
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\obj\Debug\netcoreapp2.1\FletcherBooks.csprojAssemblyReference.cache
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\obj\Debug\netcoreapp2.1\FletcherBooks.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\obj\Debug\netcoreapp2.1\FletcherBooks.RazorAssemblyInfo.cache
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\obj\Debug\netcoreapp2.1\FletcherBooks.RazorAssemblyInfo.cs
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\obj\Debug\netcoreapp2.1\FletcherBooks.AssemblyInfoInputs.cache
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\obj\Debug\netcoreapp2.1\FletcherBooks.AssemblyInfo.cs
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\obj\Debug\netcoreapp2.1\FletcherBooks.RazorTargetAssemblyInfo.cache
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\obj\Debug\netcoreapp2.1\FletcherBooks.dll
+c:\users\user\source\repos\FletcherBooks\FletcherBooks\obj\Debug\netcoreapp2.1\FletcherBooks.pdb
